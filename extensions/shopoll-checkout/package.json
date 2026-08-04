@@ -10,7 +10,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@preact/signals": "^2.3.2",
+    "@preact/signals": "^2.10.1",
     "@shopify/ui-extensions": "2026.7.0",
     "preact": "^10.29.7"
   },
