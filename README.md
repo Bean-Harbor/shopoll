@@ -103,6 +103,7 @@ database IDs, and application logging redacts secrets and contact fields.
 - [Klaviyo setup](docs/KLAVIYO.md)
 - [Deployment](docs/DEPLOYMENT.md)
 - [GitHub one-click deployment](docs/GITHUB-DEPLOYMENT.md)
+- [Codex collaborator guide](docs/CODEX-COLLABORATOR-GUIDE.md)
 - [Launch checklist](docs/LAUNCH-CHECKLIST.md)
 - [Contributing](CONTRIBUTING.md)
 - [Security policy](SECURITY.md)
