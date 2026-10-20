@@ -42,7 +42,7 @@ jobs:
       RAILWAY_WORKER_SERVICE_ID: ${{ vars.RAILWAY_WORKER_SERVICE_ID }}
       SHOPOLL_PUBLIC_URL: ${{ vars.SHOPOLL_PUBLIC_URL }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Check Railway configuration
         if: ${{ inputs.deploy_railway }}
@@ -140,7 +140,7 @@ jobs:
       SHOPIFY_CONFIG: ${{ vars.SHOPIFY_CONFIG }}
       SHOPIFY_APP_URL: ${{ vars.SHOPOLL_PUBLIC_URL }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - uses: actions/setup-node@v4
         with:
           node-version: 22
