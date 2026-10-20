@@ -17,7 +17,7 @@ GitHub Actions 发布。
 
 ## 第一次在电脑上启动
 
-需要 Node.js 22、Git 和 Codex。先 clone 仓库并安装依赖：
+需要 Node.js 22.12 或更高版本、Git 和 Codex。先 clone 仓库并安装依赖：
 
 ```powershell
 git clone https://github.com/Bean-Harbor/shopoll.git
