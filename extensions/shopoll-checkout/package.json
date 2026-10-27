@@ -15,7 +15,7 @@
     "preact": "^10.29.7"
   },
   "devDependencies": {
-    "@shopify/ui-extensions-tester": "2026.7.0",
+    "@shopify/ui-extensions-tester": "2026.10.0",
     "@testing-library/preact": "^3.2.4",
     "jsdom": "^26.1.0",
     "tsx": "^4.20.6",
