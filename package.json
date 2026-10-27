@@ -63,7 +63,7 @@
     "@shopify/api-codegen-preset": "^2.0.0",
     "@shopify/cli": "^4.5.2",
     "@shopify/polaris-types": "1.0.7",
-    "@testing-library/react": "^16.3.0",
+    "@testing-library/react": "^16.3.3",
     "@types/eslint": "^9.6.1",
     "@types/node": "^25.5.2",
     "@types/react": "^18.3.25",
